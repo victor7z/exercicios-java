@@ -4,7 +4,7 @@ public class AlunosAcademia {
     public String nome;
     public int numeroMatricula;
     public int idade;
-    public double valorFixoMensalidade = 200;
+    public double valorFixoMensalidade = 300;
     public double mensalidade = valorFixoMensalidade;
     public double desconto;
     public double taxaDesconto;
