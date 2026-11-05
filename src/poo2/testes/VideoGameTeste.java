@@ -7,7 +7,6 @@ public class VideoGameTeste {
         VideoGame.exibirCatalogo();
         VideoGame videoGame01 = new VideoGame("playone");
         VideoGame videoGame02 = new VideoGame("playtwo");
-
         
         videoGame01.exibirJogador();
         videoGame02.exibirJogador();
