@@ -13,7 +13,8 @@ public class CadastroTeste {
         int idade = input.nextInt();
 
         System.out.println("Olá "+ nome+ "! Você tem "+ idade+"anos");
-        
+
+
 
 
     }
