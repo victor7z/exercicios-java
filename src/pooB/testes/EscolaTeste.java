@@ -25,5 +25,6 @@ public class EscolaTeste {
 
         escola2.setProfessor(professoresG2);
         escola2.imprime();
+
     }
 }
